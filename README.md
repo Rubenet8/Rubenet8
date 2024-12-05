@@ -13,5 +13,4 @@
 
 - 🔱 Skills
 
-    <img src="{https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white}" />
-    ![image]({BadgeURLHere})
+    ![image]({[BadgeURLHere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)})
