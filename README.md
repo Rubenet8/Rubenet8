@@ -57,7 +57,7 @@
 
 
 <br><br>
-## <picture><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="40" /></picture><b>Conect with me</b>
+## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="40" /><b>Conect with me</b>
 <br>
 
 [![](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
@@ -96,4 +96,4 @@ Credit: [Rubén Ferrer](https://github.com/Rubenet8) <br> Last Edited on: 05/12/
  </div>
 
 <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
