@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Rubén </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+	<img src = "https://komarev.com/ghpvc/?username=Rubenet8&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 
 
@@ -14,29 +14,86 @@
 <br><br>
 <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-[![](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
-[![](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+### 👨‍💻 Programming languages
+
+[![](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+
+### 📋 Frontend Development
+
+[![](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+
+### ☁️ Cloud
+
+<br>
+
+### ♾️ DevOps
+
+[![](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+### 💾 Databases
+
+[![](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+### 🎛️ Operating Systems
+
+[![](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+
+### 💻 IDEs/Editors
+
+[![](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
+### 🥅 Others:
+
+[![](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=bots)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
 
 
 <br><br>
 ## <picture><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="40" /></picture><b>Conect with me</b>
-<br><br>
+<br>
 
 [![](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"><b>Contributions</b>
+<br>
+
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"><b>Contributions</b>
+<br><br>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"><b>Github Stats</b>
+<br><br>
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=Rubenet8&show_icons=true&theme=github_dark">
+</p>
+<br>
+
+## <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png" width="40"><b>Most Used Languages</b>
+<br><br>
+<p align='center'>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rubenet8&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+</p>
+<br>
 
 
 
-<img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png"></img>
-<img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
- <div align=center>
+##
+Credit: [Rubén Ferrer](https://github.com/Rubenet8) <br> Last Edited on: 05/12/2024
+
+<div align=center>
     <p><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"></p>
  </div>
 
+<img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
