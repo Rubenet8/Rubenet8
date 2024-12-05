@@ -82,7 +82,7 @@
 ## <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png" width="40"><b>Most Used Languages</b>
 <br><br>
 <p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rubenet8&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubenet8&layout=compact&theme=dark&bg_color=0A0A0A" />
 </p>
 <br>
 
