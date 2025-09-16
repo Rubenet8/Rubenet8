@@ -18,12 +18,14 @@
 [![](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 
 ### 📋 Frontend Development
 
 [![](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 
 ### ☁️ Cloud
 
@@ -32,6 +34,9 @@
 ### ♾️ DevOps
 
 [![](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
@@ -42,6 +47,7 @@
 ### 🎛️ Operating Systems
 
 [![](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=apple)](https://skillicons.dev)
 
 ### 💻 IDEs/Editors
 
@@ -53,6 +59,9 @@
 [![](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=bots)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=ae)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=pr)](https://skillicons.dev)
 
 
 <br><br>
@@ -88,7 +97,7 @@
 
 
 ##
-Credit: [Rubén Ferrer](https://github.com/Rubenet8) <br> Last Edited on: 05/12/2024
+Credit: [Rubén Ferrer](https://github.com/Rubenet8) <br> Last Edited on: 17/09/2025
 
 <div align=center>
     <p><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"></p>
