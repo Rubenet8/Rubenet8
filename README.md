@@ -18,14 +18,12 @@
 [![](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-[![](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 ### 📋 Frontend Development
 
 [![](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
-[![](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 
 ### ☁️ Cloud
 
