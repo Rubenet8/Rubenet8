@@ -18,7 +18,7 @@
 [![](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-[![](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 ### 📋 Frontend Development
 
